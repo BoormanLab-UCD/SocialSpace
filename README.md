@@ -1,2 +1,3 @@
 # SocialSpace
-Python Code for Measure Distance Rankings
+Python code for measuring distance ranking in social space experiment
+
